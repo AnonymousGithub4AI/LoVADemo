@@ -3,8 +3,6 @@ layout: default
 title: LoVA
 ---
 
-
-
 <div class="post">
 	<h2 class="pageTitle">Demos</h2>
 	<p>
